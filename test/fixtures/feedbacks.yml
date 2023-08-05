@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  feedback_message: MyText
+  user: one
+  voting_event: one
+
+two:
+  feedback_message: MyText
+  user: two
+  voting_event: two
